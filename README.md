@@ -1,6 +1,8 @@
 Elrte Rails
 ===========
 
+Note: working for rails 3.2.13
+
 Requirments
 -----------
 
